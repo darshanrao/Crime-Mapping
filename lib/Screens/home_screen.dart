@@ -165,14 +165,6 @@ class _HomeScreenState extends State<HomeScreen> {
     }
     return Scaffold(
       extendBodyBehindAppBar: true,
-      // floatingActionButton: FloatingActionButton(
-      //   child: Text('M'),
-      //   onPressed: () {
-      //     setState(() {
-      //       addMarkers();
-      //     });
-      //   },
-      // ),
       body: SafeArea(
         child: Stack(children: [
           locationToggle
@@ -196,18 +188,11 @@ class _HomeScreenState extends State<HomeScreen> {
                       );
                       // controller.open();
                     },
-                    // myController == null
-                    //     ? null
-                    //     : () => myController
-                    //             .animateCamera(CameraUpdate.newCameraPosition(
-                    //           CameraPosition(
-                    //               target: LatLng(42.3601, -71.0589),
-                    //               zoom: 16.0,
-                    //               tilt: 30),
-                    //         )),
 
                     label: Padding(
-                      padding: const EdgeInsets.all(8.0),
+                      padding: const EdgeInsets.symmetric(
+                        vertical: 8.0,
+                      ),
                       child: const Text(
                         'REPORT AN ISSUE',
                         style:
@@ -224,6 +209,9 @@ class _HomeScreenState extends State<HomeScreen> {
                       child: GoogleMap(
                     zoomGesturesEnabled: true,
                     // tiltGesturesEnabled: false,
+                    padding: EdgeInsets.only(
+                      top: 67.0,
+                    ),
                     minMaxZoomPreference: MinMaxZoomPreference(12, 17),
                     myLocationEnabled: true,
                     myLocationButtonEnabled: true,
@@ -243,70 +231,197 @@ class _HomeScreenState extends State<HomeScreen> {
                         zoom: 15.0),
                   )),
                 ),
-          Padding(
-            padding: const EdgeInsets.all(8.0),
-            child: Container(
-              height: 50,
-              decoration: BoxDecoration(
-                border: Border.all(
-                  color: kSecondaryColor,
-                  width: 1,
-                ),
-                color: kButtonBackground,
-                borderRadius: BorderRadius.all(
-                  Radius.circular(25),
-                ),
-              ),
-              child: Padding(
-                padding: const EdgeInsets.only(left: 8.0),
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: [
-                    mapToggle && locationToggle
-                        ? Text(
-                            'Laoding.',
-                            style: TextStyle(
-                                fontSize: 16,
-                                color: Color(0xFFFC76A1),
-                                fontWeight: FontWeight.bold),
-                          )
-                        : RichText(
-                            text: TextSpan(
-                                text: '  Law',
-                                style: TextStyle(
-                                    color: Colors.white,
-                                    fontSize: 16,
-                                    fontWeight: FontWeight.bold),
-                                children: <TextSpan>[
-                                  TextSpan(
-                                    text: 'Plus.',
-                                    style: TextStyle(
-                                        fontSize: 16,
-                                        color: Color(0xFFFC76A1),
-                                        fontWeight: FontWeight.bold),
-                                  )
-                                ]),
-                          ),
-                    FloatingActionButton(
-                      backgroundColor: kButtonBackground,
-                      onPressed: () {
-                        _showMyDialog();
-                      },
-                      child: CircleAvatar(
-                        backgroundImage: currentUser.photoUrl == null
-                            ? NetworkImage('https://i.imgur.com/oO6KOxx.png')
-                            : NetworkImage(currentUser.photoUrl),
-                        backgroundColor: kBackGroundColor,
-                        radius: 20,
-                      ),
+          Column(
+            children: [
+              Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: Container(
+                  height: 50,
+                  decoration: BoxDecoration(
+                    border: Border.all(
+                      color: kSecondaryColor,
+                      width: 1,
                     ),
-                  ],
+                    color: kButtonBackground,
+                    borderRadius: BorderRadius.all(
+                      Radius.circular(25),
+                    ),
+                  ),
+                  child: Padding(
+                    padding: const EdgeInsets.only(left: 8.0),
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        mapToggle && locationToggle
+                            ? Text(
+                                'Laoding.',
+                                style: TextStyle(
+                                    fontSize: 16,
+                                    color: Color(0xFFFC76A1),
+                                    fontWeight: FontWeight.bold),
+                              )
+                            : RichText(
+                                text: TextSpan(
+                                    text: '  Law',
+                                    style: TextStyle(
+                                        color: Colors.white,
+                                        fontSize: 16,
+                                        fontWeight: FontWeight.bold),
+                                    children: <TextSpan>[
+                                      TextSpan(
+                                        text: 'Plus.',
+                                        style: TextStyle(
+                                            fontSize: 16,
+                                            color: Color(0xFFFC76A1),
+                                            fontWeight: FontWeight.bold),
+                                      )
+                                    ]),
+                              ),
+                        FloatingActionButton(
+                          backgroundColor: kButtonBackground,
+                          onPressed: () {
+                            _showMyDialog();
+                          },
+                          child: CircleAvatar(
+                            backgroundImage: currentUser.photoUrl == null
+                                ? NetworkImage(
+                                    'https://i.imgur.com/oO6KOxx.png')
+                                : NetworkImage(currentUser.photoUrl),
+                            backgroundColor: kBackGroundColor,
+                            radius: 20,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
                 ),
               ),
-            ),
-          )
+              Align(
+                alignment: AlignmentDirectional.centerStart,
+                child: Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: FloatingActionButton(
+                    backgroundColor: Color(0xFF1D1D27),
+                    shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(18.0),
+                        side: BorderSide(color: Color(0xFFFC76A1))),
+                    child: Icon(
+                      Icons.info,
+                      color: Color(0xFFFC76A1),
+                    ),
+                    onPressed: () {
+                      _showMyDialogInfo();
+                    },
+                  ),
+                ),
+              ),
+            ],
+          ),
         ]),
       ),
+    );
+  }
+
+  Future<void> _showMyDialogInfo() async {
+    return showDialog<void>(
+      context: context,
+      barrierDismissible: false, // user must tap button!
+      builder: (BuildContext context) {
+        return AlertDialog(
+          shape:
+              RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+          content: SingleChildScrollView(
+              child: Column(
+            children: [
+              Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: Text(
+                  'Info',
+                  style: TextStyle(color: kSecondaryColor, fontSize: 24),
+                ),
+              ),
+              Row(children: [
+                Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: Image.asset(
+                    'images/heat-map.png',
+                    width: 50,
+                    height: 50,
+                  ),
+                ),
+                Container(
+                  width: 150,
+                  child: Text(
+                    'Heatmaps shows the crime density of the area.',
+                    textDirection: TextDirection.ltr,
+                    style: TextStyle(fontSize: 16),
+                  ),
+                ),
+              ]),
+              Row(children: [
+                Padding(
+                  padding: const EdgeInsets.all(13.0),
+                  child: Image.asset(
+                    'images/badge_4.png',
+                    width: 40,
+                    height: 40,
+                  ),
+                ),
+                Container(
+                  width: 150,
+                  child: Text(
+                    'Police stations in the area.',
+                    textDirection: TextDirection.ltr,
+                    style: TextStyle(fontSize: 16),
+                  ),
+                ),
+              ]),
+              Row(children: [
+                Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: Image.asset(
+                    'images/police-handcuffs.png',
+                    width: 50,
+                    height: 50,
+                  ),
+                ),
+                Container(
+                  width: 150,
+                  child: RichText(
+                    text: TextSpan(
+                        text: 'Press',
+                        style: TextStyle(fontSize: 16),
+                        children: <TextSpan>[
+                          TextSpan(
+                            text: ' REPORT AN ISSUE ',
+                            style: TextStyle(
+                                fontSize: 16, color: Color(0xFFFC76A1)),
+                          ),
+                          TextSpan(
+                            text: 'button to report an issue.',
+                            style: TextStyle(
+                              fontSize: 16,
+                            ),
+                          )
+                        ]),
+                  ),
+                ),
+              ]),
+            ],
+          )),
+          actions: <Widget>[
+            FlatButton(
+              child: Text(
+                'OK',
+                style: TextStyle(color: kSecondaryColor),
+              ),
+              onPressed: () {
+                Navigator.of(context).pop();
+              },
+            ),
+          ],
+        );
+      },
     );
   }
 
@@ -452,18 +567,16 @@ class _HomeScreenState extends State<HomeScreen> {
   _createPoints() {
     final List<WeightedLatLng> points = <WeightedLatLng>[];
     //Can create multiple points here
-    int i = 0;
+
     for (var report in reportmap) {
       // print(report.location.longitude);
       LatLng point =
           LatLng(report.location.latitude, report.location.longitude);
       points.add(_createWeightedLatLng(point.latitude, point.longitude, 100));
       // points.add(_createWeightedLatLng(19.1639456 + (i), 72.95256810 + (i), 1));
-      i++;
 
       // points.add(WeightedLatLng(point: report.location, intensity: 1));
     }
-    print(i);
 
     points.add(_createWeightedLatLng(19.1639456, 72.95256810, 1));
     points.add(_createWeightedLatLng(19.1639456 - 0.0001, 72.95256810, 1));
