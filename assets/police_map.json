@@ -1,0 +1,2358 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rabale Police Station",
+        "phone": "02232901016",
+        "zone": "1",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00191712698344,
+          19.135740482791785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turbhe Police Station",
+        "phone": "022 2767 2375",
+        "zone": "1",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02025300006419,
+          19.064612935628016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vashi Police Station",
+        "phone": "022 2782 0346",
+        "zone": "1",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.99485517210671,
+          19.072504413218798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanpada Police Station",
+        "phone": "022 2775 1406",
+        "zone": "1",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0107447413883,
+          19.062703718354648
+
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A.P.M.C Police Station",
+        "phone": "022 2783 8963",
+        "zone": "1",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00754725281884,
+          19.082177383971718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nerul Police Station",
+        "phone": "022 2770 2324",
+        "zone": "1",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01895951635674,
+          19.028596231977357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "C.B.D Belapur Police Station",
+        "phone": "022 2758 0255",
+        "zone": "1",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0413954997903,
+          19.025250159700246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N.R.I Police Station",
+        "phone": "022 27564404",
+        "zone": "1",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02863565687309,
+          19.008179288558217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koparkhairane Police Station",
+        "phone": "022 2755 0777",
+        "zone": "1",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00519079720829,
+          19.09959304287921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turbhe MIDC Police Station",
+        "phone": "022 2767 2375",
+        "zone": "1",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02022081361521,
+          19.06463321678386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rabale Police Station (MIDC)",
+        "phone": "02227692519",
+        "zone": "1",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.00114966292347,
+          19.146408324208373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kharghar Police Station",
+        "phone": "+912227742500",
+        "zone": "2",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06813611240828,
+          19.034757793476288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Panvel city Police Station",
+        "phone": "+912227452333",
+        "zone": "2",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.10565856637278,
+          18.995346902265258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navin panvel Police Station",
+        "phone": "022 27452444",
+        "zone": "2",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.12286757507623,
+          18.998714655870735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalamboli Police Station",
+        "phone": "+912227423000",
+        "zone": "2",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.10501785526715,
+          19.024923251102592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taloja Police Station",
+        "phone": "+912227412333",
+        "zone": "2",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.11558958542614,
+          19.061513052147397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mora sagri Police Station",
+        "phone": "022 27224282",
+        "zone": "2",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.92827609706158,
+          18.910681379392354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nhavasheva Police Station",
+        "phone": "+912227472264",
+        "zone": "2",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97749809520788,
+          18.912559079962197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uran Police Station",
+        "phone": "+912227222366",
+        "zone": "2",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.93954791240606,
+          18.880741870145755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khandeshawar Police Station",
+        "phone": "+912227465338",
+        "zone": "2",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.10991255288168,
+          19.00731511358946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamothe Police Station",
+        "phone": "+912227431413",
+        "zone": "2",
+        "city": "Navi Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.09119134495164,
+          19.022784605225834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colaba Police Station",
+        "phone": "+912222043702",
+        "zone": "1",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83112973957638,
+          18.92237788332693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuffe Parade Police Station",
+        "phone": "+912222188009",
+        "zone": "1",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.818634037725,
+          18.911913287840175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Azad Maidan Police Station",
+        "phone": "+912222620697",
+        "zone": "1",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83313742481975,
+          18.941861427249734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M.R.A. Marg Police Station",
+        "phone": "+912222620759",
+        "zone": "1",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83502567879457,
+          18.946830682450614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dongri Police Station",
+        "phone": "+912223719136",
+        "zone": "1",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83892922482524,
+          18.96260435959997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sir J.J. Marg Police Station",
+        "phone": "+912223738706",
+        "zone": "1",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83241698619393,
+          18.963710346772448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marine Drive Police Station",
+        "phone": "+912222880267",
+        "zone": "1",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82482318618524,
+          18.93082849101707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pydhonie Police Station",
+        "phone": "+912223436114",
+        "zone": "2",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83174966345463,
+          18.954715444064806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L.T. Marg Police Station",
+        "phone": "+912222080303",
+        "zone": "2",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83041852482076,
+          18.945485957809375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "V.P. Road Police Station",
+        "phone": "022 2387 2525",
+        "zone": "2",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82369928186216,
+          18.956048268035357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. D.B. Marg Police Station",
+        "phone": "+912223867873",
+        "zone": "2",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81673598425621,
+          18.96132504002905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gamdevi Police Station",
+        "phone": "+912223803505",
+        "zone": "2",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81228982482476,
+          18.961042397760004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malabar Hill Police Station",
+        "phone": "+912223635513",
+        "zone": "2",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7991513094797,
+          18.95022896423625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yellow Gate Police Station",
+        "phone": "",
+        "zone": "Port-Zone",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84100517084788,
+          18.948624983610667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wadala Police Station",
+        "phone": "+912224185250",
+        "zone": "Port-Zone",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86382265552366,
+          19.016422561908456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sewree Police Station",
+        "phone": "",
+        "zone": "Port-Zone",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84913508619795,
+          18.97926193868089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tardeo Police Station",
+        "phone": "+912223512109",
+        "zone": "3",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81419898619565,
+          18.970436055863974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nagpada Police Station",
+        "phone": "+912223092293",
+        "zone": "3",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82944193222137,
+          18.96754270336396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agripada Police Station",
+        "phone": "",
+        "zone": "3",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82430058619752,
+          18.97721552150757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Byculla Police Station",
+        "phone": "+912223755264",
+        "zone": "3",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8339733401704,
+          18.97446055057589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Worli Police Station",
+        "phone": "+912224930388",
+        "zone": "3",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.817389670863,
+          19.005486478711852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "N.M. Joshi Marg Police Station",
+        "phone": "+912223085732",
+        "zone": "3",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83107962085943,
+          18.992449537677583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhoiwada Police Station",
+        "phone": "+912224185637",
+        "zone": "4",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84397722483706,
+          19.007325703799243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalachowki Police Station",
+        "phone": "+912223757357",
+        "zone": "4",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8425955629111,
+          18.988944357466384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matunga Police Station",
+        "phone": "+912224021512",
+        "zone": "4",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85779724018569,
+          19.031910346829676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "R.A.K Marg Police Station",
+        "phone": "022 2418 6836",
+        "zone": "4",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84890569720694,
+          18.995854312265887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sion Marg Police Station",
+        "phone": "+912224031376",
+        "zone": "4",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85771165552774,
+          19.03109971299485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antop Hill Police Station",
+        "phone": "+912224074447",
+        "zone": "4",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86458495552758,
+          19.03128448920304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wadala Truck Terminal Police Station",
+        "phone": "+912224036645",
+        "zone": "4",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87518570155468,
+          19.033759738681677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dadar Police Station",
+        "phone": "+912224301403",
+        "zone": "5",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83524930949713,
+          19.015663171174324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shivaji Park Police Station",
+        "phone": "+912224229059",
+        "zone": "5",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84072326347298,
+          19.02411512428278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahim Police Station",
+        "phone": "+912224449821",
+        "zone": "5",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83954480895193,
+          19.04276783109161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shahu Nagar Police Station",
+        "phone": "",
+        "zone": "5",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84914917087154,
+          19.038162128169798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurla Police Station",
+        "phone": "+912226503182",
+        "zone": "5",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87666759361584,
+          19.065606921087277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vinoba Bhave Police Station",
+        "phone": "",
+        "zone": "5",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.88431127088072,
+          19.07239000856841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dharavi Police Station",
+        "phone": "+912224073988",
+        "zone": "5",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85740527087309,
+          19.04381812762231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chembur Police Station",
+        "phone": "+912225232044",
+        "zone": "6",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.89364442484889,
+          19.05226137482064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nehru Nagar Police Station",
+        "phone": "",
+        "zone": "6",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8803941941667,
+          19.05966528733446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trombay Police Station",
+        "phone": "",
+        "zone": "6",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.94591212429296,
+          19.039166590207717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "R.C.F Police Station",
+        "phone": "",
+        "zone": "6",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.89535051984089,
+          19.037215946856897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deonar Police Station",
+        "phone": "",
+        "zone": "6",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.91795287087717,
+          19.05880423909446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shivaji Nagar Police Station",
+        "phone": "",
+        "zone": "6",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.91675922485214,
+          19.06411690482633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tilak Nagar Police Station",
+        "phone": "+912225227293",
+        "zone": "6",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8960151862211,
+          19.06562850725013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chunabhatti Police Station",
+        "phone": "+912224050084",
+        "zone": "6",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87264059416603,
+          19.05734235198823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mankhurd Police Station",
+        "phone": "+912225554511",
+        "zone": "6",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9264854475863,
+          19.053558529753975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Govandi Police Station",
+        "phone": "+919594962884",
+        "zone": "6",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.91771514818721,
+          19.04867097319862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghatkopar Police Station",
+        "phone": "+912225153543",
+        "zone": "7",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.90014945732021,
+          19.08750375987195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pantnagar Police Station",
+        "phone": "022 2501 3624",
+        "zone": "7",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.91624449594708,
+          19.087460700512185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vikhroli Police Station",
+        "phone": "+912225782240",
+        "zone": "7",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.93743342663392,
+          19.118873431650673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kanjurmarg Police Station",
+        "phone": "+912225782637",
+        "zone": "7",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.93736578430564,
+          19.13006345984046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Navghar Police Station Mulund East",
+        "phone": "+912225637314",
+        "zone": "7",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9684353977985,
+          19.169165894561267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhandup Police Station",
+        "phone": "022-25954467",
+        "zone": "7",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.93759764197748,
+          19.151146769081155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mulund Police Station",
+        "phone": "+912225689844",
+        "zone": "7",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9520852592993,
+          19.178998256654324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parksite Police Station",
+        "phone": "+912225789368",
+        "zone": "7",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.92413069779805,
+          19.11781041802862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vakola Police Station",
+        "phone": "+912226682756",
+        "zone": "8",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84756593791234,
+          19.08105305689109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vileparle Police Station ",
+        "phone": "+912226112813",
+        "zone": "8",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85517485361885,
+          19.096430078750675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kherwadi Police Station ",
+        "phone": "+919004281835",
+        "zone": "8",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8492187247827,
+          19.06470697522112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BKC Police Station ",
+        "phone": "+912226504482",
+        "zone": "8",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86039405732014,
+          19.064831736531623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nirmal Nagar Police Station",
+        "phone": "+912226479372",
+        "zone": "8",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84467223827534,
+          19.06621653290557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Airport Police Station",
+        "phone": "+912226829784",
+        "zone": "8",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86519274197717,
+          19.098428985006834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sahar Police Station ",
+        "phone": "+912226112813",
+        "zone": "8",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87027528645913,
+          19.10012492415183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sahar Police Station ",
+        "phone": "+912226112813",
+        "zone": "8",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87027528645913,
+          19.10012492415183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bandra Police Station",
+        "phone": "+912226513716",
+        "zone": "8",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83806174197667,
+          19.054865370423084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khar Police Station",
+        "phone": "+912226494977",
+        "zone": "9",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83838759964843,
+          19.072849044015317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santacruz Police Station",
+        "phone": "+912226493139",
+        "zone": "9",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83490002663366,
+          19.08444557030142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juhu Police Station",
+        "phone": "+912226183856",
+        "zone": "9",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8327924284846,
+          19.10348974101708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DN Nagar Police Station",
+        "phone": "022-26304002",
+        "zone": "9",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82972935361904,
+          19.122370150112705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Versova Police Station",
+        "phone": "+912226304812",
+        "zone": "9",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83016351129073,
+          19.124890373955896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oshiwara Police Station",
+        "phone": "+912226323861",
+        "zone": "9",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8314865536192,
+          19.14768528092122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amboli Police Station",
+        "phone": "022-26762001",
+        "zone": "9",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84748149093251,
+          19.144795557966624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meghwadi Police Station",
+        "phone": "+912228210860",
+        "zone": "10",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8609994382758,
+          19.13163606732949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakinaka Police Station",
+        "phone": "+912228476160",
+        "zone": "10",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.89579548430547,
+          19.110455388715497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Powai Police Station",
+        "phone": "+912225702690",
+        "zone": "10",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8995274284848,
+          19.11980805294308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MIDC Police Station",
+        "phone": "+912228368352",
+        "zone": "10",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86814932478323,
+          19.117859177815898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andheri Police Station",
+        "phone": "+912226831562",
+        "zone": "10",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84824159779812,
+          19.120691551967177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jogeshwari Police Station",
+        "phone": "022-28221672",
+        "zone": "10",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85434964197748,
+          19.138376055182505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangur Nagar Police Station",
+        "phone": "+912228810121",
+        "zone": "11",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83485505547019,
+          19.165790870444255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goregaon Police Station",
+        "phone": "022 2872 3252",
+        "zone": "11",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83953829594776,
+          19.15807851853569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malad Police Station",
+        "phone": "+912228821147",
+        "zone": "11",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84442248245529,
+          19.183641549243816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malvani Police Station",
+        "phone": "+912228821319",
+        "zone": "11",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82211570944064,
+          19.191959866214297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borivali Police Station",
+        "phone": "+912228930145",
+        "zone": "11",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8560683284857,
+          19.229725252153873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kandivali Police Station",
+        "phone": "+912228056603",
+        "zone": "11",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85018152663477,
+          19.209809410642645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charkop Police Station",
+        "phone": "+912228676581",
+        "zone": "11",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82074238615719,
+          19.214859465799844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M.H.B. Colony Police Station",
+        "phone": "022 28677401",
+        "zone": "11",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84960729594842,
+          19.243910986070894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gorai Police Station",
+        "phone": "022-28451828",
+        "zone": "11",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82839055362007,
+          19.23094225219193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vanrai Police Station",
+        "phone": "+912226861677",
+        "zone": "12",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85789492663432,
+          19.155914221728825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dindoshi Police Station",
+        "phone": "+912228770781",
+        "zone": "12",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85745036896282,
+          19.178946087624443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurar Police Station",
+        "phone": "+912228402911",
+        "zone": "12",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85940502663452,
+          19.18581254697151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samta Nagar Police Station",
+        "phone": "+912228876119",
+        "zone": "12",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8616043554705,
+          19.20014182434448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kasturba Marg Police Station",
+        "phone": "+912228066158",
+        "zone": "12",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8577682554708,
+          19.228387763001923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dahisar Police Station",
+        "phone": "+912228284024",
+        "zone": "12",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8644685229337,
+          19.253164949113664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aarey Police Station",
+        "phone": "+912229272485",
+        "zone": "12",
+        "city": "Mumbai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.87173712478359,
+          19.163074589005287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naupada Police Station",
+        "phone": "022-25342365",
+        "zone": "1",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.96730754232918,
+          19.188888890346153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thane Nagar Police Station",
+        "phone": "022-25331416",
+        "zone": "1",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97718919732401,
+          19.19173010480141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kalwa Police Station",
+        "phone": "022-25347233",
+        "zone": "1",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98153319283651,
+          19.20072017572898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rabodi Police Station",
+        "phone": "022-25427200",
+        "zone": "1",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.98202139495208,
+          19.210310052751108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mumbra Police Station",
+        "phone": "022-25462355",
+        "zone": "1",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.02376906796404,
+          19.185128481720614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daighar Police Station",
+        "phone": "022-25858282",
+        "zone": "1",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04824037849083,
+          19.140545283476587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhiwandi city Police Station",
+        "phone": "02522-250150",
+        "zone": "2",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.05680292880645,
+          19.29991959364456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shanti Nagar Police Station",
+        "phone": "02522-246465",
+        "zone": "2",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06705753913026,
+          19.29222776718419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhoiwada Police Station",
+        "phone": "02522-232150",
+        "zone": "2",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.05261592369995,
+          19.299699247940268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nizampura Police Station",
+        "phone": "02522-250250",
+        "zone": "2",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.06301423913034,
+          19.29904437620749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kongaon Police Station",
+        "phone": "02522-281281",
+        "zone": "2",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.09685292745759,
+          19.258395929794183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dombivli Police Station",
+        "phone": "0251-2860101",
+        "zone": "3",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.08664014914085,
+          19.21965581848689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vishnunagar Police Station",
+        "phone": "0251-2480102",
+        "zone": "3",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0782287421893,
+          19.229219060735176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahatma Phule Police Station",
+        "phone": "0251-2314800",
+        "zone": "3",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14439764866061,
+          19.23747752022849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manpada Police Station",
+        "phone": "0251-2470104",
+        "zone": "3",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1126808676663,
+          19.213421379895657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bazarpeth Police Station",
+        "phone": "0251-2212222",
+        "zone": "3",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1221890544712,
+          19.243163828041116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kolshewadi Police Station",
+        "phone": "0251-2363593",
+        "zone": "3",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14652400108112,
+          19.230033155810887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tilak Nagar Police Station",
+        "phone": "0251-2443232",
+        "zone": "3",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.11874784635759,
+          19.23137320529275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khadakpada Police Station",
+        "phone": "0251-2234832",
+        "zone": "3",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.14371778330683,
+          19.258634784430242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Police Station",
+        "phone": "0251-2706900",
+        "zone": "4",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16617728700191,
+          19.229496293923102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulhasnagar Police Station",
+        "phone": "0251-2710005",
+        "zone": "4",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16526528948064,
+          19.22222239876134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ambarnath Police Station",
+        "phone": "0251-2682310",
+        "zone": "4",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.18935689679985,
+          19.21149123962634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shivaji Nagar Police Station",
+        "phone": "251-2607020",
+        "zone": "4",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.189278783306,
+          19.203393524148183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hill Line Police Station",
+        "phone": "0251-2520102",
+        "zone": "4",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.16095938330587,
+          19.198929122485733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vitthalwadi Police Station",
+        "phone": "251-2582009",
+        "zone": "4",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.15712478145844,
+          19.21955390422401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badlapur(E) Police Station",
+        "phone": "0251-2690297",
+        "zone": "4",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.23942813858423,
+          19.15951049091835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Badlapur(W) Police Station",
+        "phone": "251-2665927",
+        "zone": "4",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.26563040683179,
+          19.16045094935481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vartak Nagar Police Station",
+        "phone": "022-25853576",
+        "zone": "5",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.96289705631852,
+          19.213492755380532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wagle Estate Police Station",
+        "phone": "022-25805252",
+        "zone": "5",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.95557614097673,
+          19.201822085889333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shrinagar Police Station",
+        "phone": "022-25800550",
+        "zone": "5",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.94401134741943,
+          19.19077145727908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kopari Police Station",
+        "phone": "022-25323800",
+        "zone": "5",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.96922163912862,
+          19.178493588211463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kapurbawadi Police Station",
+        "phone": "022-25330098",
+        "zone": "5",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97898449679992,
+          19.21643014225665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kasarwadavali Police Station",
+        "phone": "022-25972040",
+        "zone": "5",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.966853637282,
+          19.259209571095845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chitalsar Police Station",
+        "phone": "022-25899079",
+        "zone": "5",
+        "city": "Thane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97621622563561,
+          19.231497538844426
+        ]
+      }
+    }
+  ]
+}

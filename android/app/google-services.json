@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928787398601",
+    "project_id": "crime-mapping-7610d",
+    "storage_bucket": "crime-mapping-7610d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928787398601:android:0d5159bea408ecf2e47218",
+        "android_client_info": {
+          "package_name": "com.example.crimemapping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928787398601-pupvrrqmvd2ih6v2o5au8j7crs5r3lrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqaH0u20jnoTPz8Mw1IwrhGDF96w2zHVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928787398601-pupvrrqmvd2ih6v2o5au8j7crs5r3lrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
