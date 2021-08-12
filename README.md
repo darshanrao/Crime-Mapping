@@ -9,7 +9,7 @@ law enforcement officials in no time.
 
 ## Installation
 
-<a href="https://firebasestorage.googleapis.com/v0/b/crime-mapping-7610d.appspot.com/o/Apk%2FLawPlus.apk?alt=media&token=5bb5a8dc-f3be-4012-af35-7c5cce614095" >Download</a><br>
+<a href="https://firebasestorage.googleapis.com/v0/b/crime-mapping-7610d.appspot.com/o/Apk%2FLawPlus.apk?alt=media&token=5bb5a8dc-f3be-4012-af35-7c5cce614095" >Download For Android</a><br>
 
 <h4>Signup Form</h4>
 To validate the user and minimise duplicate and spam reports, registration is necessary at the start. Registration consists of filling up two forms. You have to enter an unregistered email and strong password in the first form. Personal credentials need to be filled in the second form.<br><br>
@@ -38,6 +38,6 @@ Only whitelisted individuals and law enforcement agencies have access to this cu
 which is used to manage the huge intake of information.
 Website: https://lawplus.live/
 <h4>Contributors</h4>
-- App Developer:<a href="https://github.com/Darshan120501" >Darshan Rao</a><br>
-- Graphic Designer<a href="https://github.com/bapuz">Anuj Patil</a><br>
-- Web Developer<a href="https://github.com/Kaustubh0204" >Kaustubh Utturwar</a><br>
+- App Developer: <a href="https://github.com/Darshan120501" >Darshan Rao</a><br>
+- Graphic Designer: <a href="https://github.com/bapuz">Anuj Patil</a><br>
+- Web Developer: <a href="https://github.com/Kaustubh0204" >Kaustubh Utturwar</a><br>
