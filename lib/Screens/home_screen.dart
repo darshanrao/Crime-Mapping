@@ -43,11 +43,12 @@ class _HomeScreenState extends State<HomeScreen> {
   GoogleMapController myController;
   Report report = Report();
   var currentLocation;
-
+  bool markerToggle = false;
   _HomeScreenState();
   @override
   void initState() {
     super.initState();
+    addMarkers();
     getHeatMapLatLng();
     getCurrentUser();
     setCustomMarker();
@@ -151,7 +152,6 @@ class _HomeScreenState extends State<HomeScreen> {
   int flag = 0;
   @override
   Widget build(BuildContext context) {
-    addMarkers();
     // print(count);
     addHeatmap();
     if (report.locDesc == null) {
@@ -212,7 +212,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     padding: EdgeInsets.only(
                       top: 67.0,
                     ),
-                    minMaxZoomPreference: MinMaxZoomPreference(12, 17),
+                    minMaxZoomPreference: MinMaxZoomPreference(7, 17),
                     myLocationEnabled: true,
                     myLocationButtonEnabled: true,
                     heatmaps: _heatmaps,
@@ -311,6 +311,38 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                     onPressed: () {
                       _showMyDialogInfo();
+                    },
+                  ),
+                ),
+              ),
+              Align(
+                alignment: AlignmentDirectional.centerStart,
+                child: Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: FloatingActionButton(
+                    backgroundColor: Color(0xFF1D1D27),
+                    shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(18.0),
+                        side: BorderSide(color: Color(0xFFFC76A1))),
+                    child: markerToggle
+                        ? Image.asset(
+                            'images/badge_4-01-01.png',
+                            width: 40,
+                          )
+                        : Image.asset(
+                            'images/badge_4.png',
+                            width: 30,
+                          ),
+                    onPressed: () {
+                      if (markerToggle == true) {
+                        setState(() {
+                          removeMarkers();
+                          markerToggle = false;
+                        });
+                      } else {
+                        addMarkers();
+                        markerToggle = true;
+                      }
                     },
                   ),
                 ),
@@ -614,6 +646,18 @@ class _HomeScreenState extends State<HomeScreen> {
                     )),
           ),
         );
+      });
+    }
+  }
+
+  removeMarkers() {
+    for (var police in _policeMap) {
+      Marker marker = _markers.firstWhere(
+          (marker) =>
+              marker.markerId.value == police.properties.name.toString(),
+          orElse: () => null);
+      setState(() {
+        _markers.remove(marker);
       });
     }
   }
