@@ -613,23 +613,10 @@ class _HomeScreenState extends State<HomeScreen> {
                 ),
                 Container(
                   width: 150,
-                  child: RichText(
-                    text: TextSpan(
-                        text: 'Press',
-                        style: TextStyle(fontSize: 16),
-                        children: <TextSpan>[
-                          TextSpan(
-                            text: ' REPORT AN ISSUE ',
-                            style: TextStyle(
-                                fontSize: 16, color: Color(0xFFFC76A1)),
-                          ),
-                          TextSpan(
-                            text: 'button to report an issue.',
-                            style: TextStyle(
-                              fontSize: 16,
-                            ),
-                          )
-                        ]),
+                  child: Text(
+                    'Press REPORT AN ISSUE button to report an issue.',
+                    textDirection: TextDirection.ltr,
+                    style: TextStyle(fontSize: 16),
                   ),
                 ),
               ]),
