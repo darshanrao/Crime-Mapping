@@ -108,11 +108,12 @@ class _HomeScreenState extends State<HomeScreen> {
         currentLocation.latitude, currentLocation.longitude);
     print(placemarks);
     for (var place in placemarks) {
-      final name = place.name;
-      final subLocality = place.subLocality;
-      final localityName = place.locality;
-      final postalCode = place.postalCode;
-      final String address = "$name, $subLocality, $localityName, $postalCode";
+      final name = place.name == null ? '' : place.name + ',';
+      final subLocality =
+          place.subLocality == null ? '' : place.subLocality + ',';
+      final localityName = place.locality == null ? '' : place.locality + ',';
+      final postalCode = place.postalCode == null ? '' : place.postalCode;
+      final String address = "$name $subLocality $localityName $postalCode";
       print(address);
       return address;
     }

@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
       ),
       initialRoute: SplashScreen.id,
       routes: {
-        TestingProfile.id: (context) => TestingProfile(),
+        HomeScreenSawo.id: (context) => HomeScreenSawo(),
         HomeScreen.id: (context) => HomeScreen(),
         SplashScreen.id: (context) => SplashScreen(),
         LoginScreen.id: (context) => LoginScreen(),
