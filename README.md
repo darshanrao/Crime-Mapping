@@ -26,6 +26,9 @@ After registering, you will be asked to go through the login process. This proce
 <h4>Police Station Marker</h4>
 The home page consists of a map in the background showing your exact current location as well as the police station (police badge icon) nearest to you. As soon as you tap on any of the police station icons, you’ll see the significant dataset about the respective station in the form of a pop-up.<br><br>
 <img src="Screenshots/mobile6.jpg" width="200" >
+<h4>Heat Maps</h4>
+Another type of map is featured in the middle of the screen, which shows the crime reports in a dynamic heatmap. These reflect the intensity of the reports, with deeper colours representing more reports generated from the region. These will give information on an area level.<br><br>
+<img src="Screenshots/heatmaps.png" width="200" >
 <h4>Navigation</h4>
 By clicking the icon, a route viewer button will appear at the bottom right of the screen which when pressed will display the shortest and fastest path from your location to the nearest police station.<br><br>
 <img src="Screenshots/mobile7.jpg" width="200" >
