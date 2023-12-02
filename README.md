@@ -41,7 +41,7 @@ A menu will appear consisting of two input sections, one of them would be a drop
 <h4>Website</h4>
 Only whitelisted individuals and law enforcement agencies have access to this cutting-edge website,
 which is used to manage the huge intake of information.<br>
-Website: https://lawplus.live/
+Website: <a href="https://crime-mapping-7610d.firebaseapp.com/" >Link</a><br> 
 <h4>Contributors</h4>
 - App Developer: <a href="https://github.com/Darshan120501" >Darshan Rao</a><br>
 - Graphic Designer: <a href="https://github.com/bapuz">Anuj Patil</a><br>
