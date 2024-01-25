@@ -13,6 +13,11 @@ law enforcement officials in no time.
 
 <a href="https://firebasestorage.googleapis.com/v0/b/crime-mapping-7610d.appspot.com/o/Apk%2FLawPlus.apk?alt=media&token=5bb5a8dc-f3be-4012-af35-7c5cce614095" >Download For Android</a><br>
 
+<h4>Website</h4>
+Only whitelisted individuals and law enforcement agencies have access to this cutting-edge website,
+which is used to manage the huge intake of information.<br>
+Website: <a href="https://crime-mapping-7610d.firebaseapp.com/" >Link</a><br>
+
 <h4>Signup Form</h4>
 To validate the user and minimise duplicate and spam reports, registration is necessary at the start. Registration consists of filling up two forms. You have to enter an unregistered email and strong password in the first form. Personal credentials need to be filled in the second form.<br><br>
 <img src="Screenshots/mobile2.png" width="200" >
@@ -38,10 +43,7 @@ By clicking the icon, a route viewer button will appear at the bottom right of t
 A menu will appear consisting of two input sections, one of them would be a dropdown consisting of the possible crime category (press ‘other’ if none of them falls under your situation). The second section is optional to be filled which asks for a short description about the scenario (recommended to be filled if you have chosen ‘other’ as your crime category). As soon as you press the report button, your complaint will reach the respective officials within a span of milliseconds and contact shall be made with you.<br><br>
 <img src="Screenshots/mobile8.jpg" width="200" >
 <img src="Screenshots/mobile9.jpg" width="200" >
-<h4>Website</h4>
-Only whitelisted individuals and law enforcement agencies have access to this cutting-edge website,
-which is used to manage the huge intake of information.<br>
-Website: <a href="https://crime-mapping-7610d.firebaseapp.com/" >Link</a><br> 
+ 
 <h4>Contributors</h4>
 - App Developer: <a href="https://github.com/Darshan120501" >Darshan Rao</a><br>
 - Graphic Designer: <a href="https://github.com/bapuz">Anuj Patil</a><br>
